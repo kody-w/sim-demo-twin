@@ -1,0 +1,10 @@
+{
+  "schema": "rapp-rar-index/1.0",
+  "neighborhood_rappid": "rappid:v2:twin:@kody-w/sim-demo-twin:9dc2a6dcf24e44508b91600a4f1cca8f@github.com/kody-w/sim-demo-twin",
+  "name": "sim-demo-twin-rar",
+  "version": "1.0.0",
+  "agents": [],
+  "rapps": [],
+  "cards": [],
+  "_note": "Twin's participation kit \u2014 fill with agents this twin loads."
+}
