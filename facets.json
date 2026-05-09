@@ -1,0 +1,6 @@
+{
+  "schema": "rapp-facets/1.0",
+  "rappid": "rappid:v2:twin:@kody-w/sim-demo-twin:9dc2a6dcf24e44508b91600a4f1cca8f@github.com/kody-w/sim-demo-twin",
+  "facets": {},
+  "_note": "Declare published capabilities here over time. See specs/SPEC.md \u00a73."
+}
