@@ -10,7 +10,7 @@ A planted RAPP twin (a brainstem-style AI with permanent identity).
 
 1. Open https://kody-w.github.io/RAPP/pages/vbrainstem/
 2. Sign in with GitHub
-3. In dev console, run: `localStorage.setItem('vbs_rappid', 'rappid:v2:twin:@kody-w/sim-demo-twin:9dc2a6dcf24e44508b91600a4f1cca8f@github.com/kody-w/sim-demo-twin')`
+3. In dev console, run: `localStorage.setItem('vbs_rappid', 'rappid:@kody-w/sim-demo-twin:9dc2a6dcf24e44508b91600a4f1cca8f')`
 4. Reload — you are now Sim Demo Twin
 
 ### Install locally
@@ -22,6 +22,6 @@ curl -fsSL https://kody-w.github.io/RAPP/installer/install.sh | bash
 
 ## Identity
 
-- **Rappid:** `rappid:v2:twin:@kody-w/sim-demo-twin:9dc2a6dcf24e44508b91600a4f1cca8f@github.com/kody-w/sim-demo-twin`
+- **Rappid:** `rappid:@kody-w/sim-demo-twin:9dc2a6dcf24e44508b91600a4f1cca8f`
 - **Kind:** `twin`
 - **Planted at:** 2026-05-09T13:57:37Z

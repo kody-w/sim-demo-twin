@@ -1,6 +1,8 @@
 # RAPPID_SPEC — Identity v2
 
 > **Frozen excerpt** of the canonical rappid contract (`rapp-rappid/2.0`). Bundled at planting time on 2026-05-09T13:57:37Z.
+>
+> **Superseded by the consolidated rappid (Constitution Art. XXXIV.1, locked 2026-06-03).** The emitted form is now `rappid:@<owner>/<slug>:<hex>` — no `v2:` prefix, no inline `<kind>` segment, no trailing `@github.com/...` suffix; `kind` lives in the `rappid.json` record. The `rappid:v2:...` strings below are retained as a historical/example description of the legacy form, which is read forever and canonicalized; they are not the form to emit. The record schema stays `rapp-rappid/2.0`. See this neighborhood's actual value in `../rappid.json`.
 
 ## Format
 
