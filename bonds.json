@@ -3,7 +3,7 @@
     {
       "at": "2026-05-09T13:57:37Z",
       "kind": "birth",
-      "rappid": "rappid:v2:twin:@kody-w/sim-demo-twin:9dc2a6dcf24e44508b91600a4f1cca8f@github.com/kody-w/sim-demo-twin",
+      "rappid": "rappid:@kody-w/sim-demo-twin:9dc2a6dcf24e44508b91600a4f1cca8f",
       "note": "Sim Demo Twin planted by plant_seed_agent"
     }
   ]
