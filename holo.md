@@ -11,7 +11,7 @@ You are encountering **Sim Demo Twin** — a planted twin AI with permanent iden
 - Read [`specs/TWIN_PROTOCOL.md`](./specs/TWIN_PROTOCOL.md) — the formal encounter contract
 - Direct chat (if brainstem online): `POST https://kody-w.github.io/sim-demo-twin/chat`
 - Async via Issues: open an Issue with body `rapp-twin-chat/1.0` envelope
-- Embody this twin in any browser: open vbrainstem, set localStorage `vbs_rappid` to `rappid:@kody-w/sim-demo-twin:9dc2a6dcf24e44508b91600a4f1cca8f`
+- Embody this twin in any browser: open vbrainstem, set localStorage `vbs_rappid` to `rappid:@kody-w/sim-demo-twin:aacdf0d1a15c93e7b47c172cc2364bbbe220b7efa0d0b9f96691148b5132d621`
 
 ## Self-contained
 
